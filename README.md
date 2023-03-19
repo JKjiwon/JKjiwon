@@ -12,7 +12,7 @@
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3F678D?logo=postgresql&logoColor=white)
 
 
 <br/>
