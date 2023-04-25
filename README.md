@@ -6,13 +6,16 @@
 <br/>
 
 ### Skills
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=JAVA&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=KOTLIN&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3F678D?logo=postgresql&logoColor=white)
+![REDIS](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 
 <br/>
