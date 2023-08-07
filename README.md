@@ -14,7 +14,7 @@
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3F678D?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-3F678D?logo=mysql&logoColor=white)
 ![REDIS](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 
