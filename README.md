@@ -21,6 +21,6 @@
 <br/>
 
 ### Activities  
-  ![JKjiwon's GitHub stats](https://github-readme-stats-chaemin-l.vercel.app/api?username=JKjiwon&&show_icons=true&theme=buefy)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minds92)](https://solved.ac/minds92/)
+![JKjiwon's GitHub stats](https://github-readme-stats-chaemin-l.vercel.app/api?username=JKjiwon&&show_icons=true&theme=buefy)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minds92)](https://solved.ac/minds92/)
   
